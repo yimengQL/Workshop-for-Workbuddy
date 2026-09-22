@@ -13,7 +13,7 @@ Before you start to use Workbuddy, there are some things you must know!
 5. Always designate a workplace for AI agents.   
    It can, to some extent, prevent AI agents from reading sensitive data on your computer.
 
-Link for download Workbuddy: https://www.workbuddy.ai/
+Link for download Workbuddy: https://www.workbuddy.ai/   
 (Of course, you can help me earn some credits through this link (¬‿¬) : https://workbuddy.ai/invite?code=U6NV38VA)
 
 Here are some simple tasks to help you experience how Workbuddy works.
