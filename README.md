@@ -1,4 +1,4 @@
-Before you start to use Workbuddy, there are something you must know!
+Before you start to use Workbuddy, there are some things you must know!
 1. All materials you upload to Workbuddy may be used to train their LLM models or save in their service.   
    Never upload your private data or material to Workbuddy such as Trade secrets, Your confidential personal information and so on.
 
