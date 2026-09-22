@@ -1,8 +1,7 @@
 1. analysis
 import the Expert “Career Coach”.
 prompt：
-Analyze my qualifications, academic background, skills, work experience, projects, and achievements against all currently available internship opportunities in Hong Kong. For each internship position, evaluate my suitability by comparing my profile with the job requirements and responsibilities. Generate a comprehensive report that includes:
-
+Analyze my qualifications, academic background, skills, work experience, projects, and achievements against all currently available internship   opportunities in Hong Kong. For each internship position, evaluate my suitability by comparing my profile with the job requirements and responsibilities.   Generate a comprehensive report that includes:
 Company name and internship title
 Job description and key responsibilities
 Required and preferred qualifications
