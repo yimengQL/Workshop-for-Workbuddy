@@ -21,8 +21,8 @@ Here are some simple tasks to help you experience how Workbuddy works.
 1. File organization   
 Prompt: Please help me organize the files in this archive and extract the files related to writing the CV. Before you start, please tell me your plan.
 
-3. analysis   
-import the Expert “Career Coach”.   
+2. analysis   
+import the Expert “Career Coach” and "data analysis reporter".   
 prompt： Analyze my qualifications, academic background, skills, work experience, projects, and achievements against all currently available internship   opportunities in Hong Kong. For each internship position, evaluate my suitability by comparing my profile with the job requirements and responsibilities.   Generate a comprehensive report that includes: Company name and internship title, Job description and key responsibilities, Required and preferred qualifications, Match score (0-100%) based on my profile, Strengths that align with the role, Skill gaps or missing qualifications, Recommendations to improve my competitiveness, Application priority (High / Medium / Low). Finally, rank all internship opportunities by overall suitability and provide a summary of the top opportunities that best match my background and career goals.
 
 3. create CV   
