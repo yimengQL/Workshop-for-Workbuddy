@@ -1,3 +1,21 @@
+Before you start to use Workbuddy, there are something you must know!
+1. All materials you upload to Workbuddy may be used to train their LLM models or save in their service.
+   Never upload your private data or material to Workbuddy such as Trade secrets, Your confidential personal information and so on.
+
+2. Exercise caution when granting Workbuddy access permissions.
+   AI agents may sometimes misunderstand your instructions, messing up your computor.
+   Before you start using it to complete a task, it's important to let it demonstrate its thought process and what it's going to do.
+   Then, according to its plan, you grant it the authority to proceed to the next step.
+
+3. Data backup.
+   If you grant AI permission to modify your computer's documents, please back up your data before starting the task to prevent the AI's results from being unexpected or causing unforeseen problems, thus avoiding irreversible file damage.
+
+4. Always designate a workplace for AI agents
+   It can, to some extent, prevent AI agents from reading sensitive data on your computer.
+
+
+Here are some simple tasks to help you experience how Workbuddy works.
+
 1. analysis
 
 import the Expert “Career Coach”.
