@@ -4,7 +4,7 @@ Before you start to use Workbuddy, there are some things you must know!
 
 2. Exercise caution when granting Workbuddy access permissions.   
    AI agents may sometimes misunderstand your instructions, messing up your computor.   
-   Before you start using it to complete a task, it's important to let it demonstrate its thought process and what it's going to do.   
+   Before you start using it to complete a task, it's important to ask the AI agent to explain its planned actions before granting permissions.   
    Then, according to its plan, you grant it the authority to proceed to the next step.
 
 4. Data backup.   
